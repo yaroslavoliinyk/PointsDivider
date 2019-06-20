@@ -24,9 +24,9 @@ Our genetic algorithm will find the best coefficients: a,b,c
 3. For example you've entered 10 points and you want to stop, then write in the coordinate somthing that's not a number and you'll be switched to writing coordinates of BLUE points
 4. After writing coordinates of BLUE(NEGATIVE) points simply as it was with RED points write smth, that's not a number to finish entering points.
 5. In case you chose to generate points, they will be geneated right away without effort.
-6. Then after all the points are entered, the algoriths starts to work and eventually you should receive a grapg with polinomials, starting from the 1 generation to the last.
+6. Then after all the points are entered, the algoriths starts to work and eventually you should receive a graph with polinomials, starting from the 1 generation to the last.
 7. The last polinomial will be the best divider.
-8. Meanwhile in console you cn observe how the population was evolutioning.
+8. Meanwhile in console you cn observe the evolution of the population.
 9. Have fun!
 
 	All rights are reserved
