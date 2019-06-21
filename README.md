@@ -1,4 +1,4 @@
-# PointsDivider_GeneticAlgorithm
+# PointsDivider using GeneticAlgorithm
 Created by Yaroslav Oliinyk
 
 The purpose of the following program is to create a polinomium which will separate 2 sets of dost(RED dots from BLUE dots)
