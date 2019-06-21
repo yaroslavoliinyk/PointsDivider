@@ -22,6 +22,7 @@
 ### Interface and controlling
 
 * The program will propose you to insert RED and BLUE dots by yourself or generate them.
+>![Choice](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/1.png)
 * In case of choosing insert by yourself you will need to wite the coordinates of firstly RED points(which are also called POSITIVE)
 * For example you've entered 10 points and you want to stop, then write in the coordinate somthing that's not a number and you'll be switched to writing coordinates of BLUE points
 * After writing coordinates of BLUE(NEGATIVE) points simply as it was with RED points write smth, that's not a number to finish entering points.
