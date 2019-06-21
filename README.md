@@ -21,22 +21,24 @@
 
 ### Interface and controlling
 
-* The program will propose you to insert RED and BLUE dots by yourself or generate them.
+* The program will propose you to insert **RED** and **BLUE** dots by yourself or generate them.
 >![Choice](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/1.png)
-* In case of choosing insert by yourself you will need to wite the coordinates of firstly RED points(which are also called POSITIVE)
-* For example you've entered 10 points and you want to stop, then write in the coordinate something that's not a number and you'll be switched to writing coordinates of BLUE points
+* In case of choosing insert **by yourself** you will need to write the coordinates of firstly **RED** points(which are also called **POSITIVE**)
+* For example you've entered 5 points and you want to stop, then write in the coordinate something **that's not a number** and you'll be switched to writing coordinates of **BLUE** points
 >![Insert RED dots](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/5.png)
-* After writing coordinates of BLUE(NEGATIVE) points simply as it was with RED points write smth, that's not a number to finish entering points.
+* After writing coordinates of **BLUE**(NEGATIVE) points simply as it was with RED points write smth, **that's not a number** to finish entering points.
 >![Insert BLUE dots](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/6.png)
-* In case you chose to generate points, they will be geneated right away without effort.
+* In case you chose to ***generate points***, they will be geneated right away without effort.
 >![Generation](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/4.png)
-* Then after all the points are entered, the algoriths starts to work and eventually you should receive a graph with polinomials, starting from the 1 generation to the last.
+* Then after all the points are entered, the ***algorithm starts to work*** and eventually you should receive a **graph** with polinomials, starting from the first generation to the last.
 ### Example 1:
 >![Graph 1](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/2.png)
 ### Example 2:
 >![Graph 2](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/3.png)
 * The last polinomial will be the best divider.
-* Meanwhile in console you cn observe the evolution of the population.
+	* In **Example 1** is a **red polinomium**
+	* In **Example 2** is a **pink polinomium**
+* Meanwhile in console you can observe the evolution of the population.
 * Have fun!
 
 	All rights are reserved
