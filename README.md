@@ -4,7 +4,7 @@
 * The purpose of the following program is 
 ***to create a polinomium which will separate 2 sets of dots***(RED dots from BLUE dots)
 
-* We have such polinomium: ***y = a + b*x + c*x<sup>2</sup> /***
+* We have such polinomium: ***y = a + b*x + c*x<sup>2</sup>***
 
 * Our genetic algorithm will find the best coefficients: ***a,b,c***
 
