@@ -35,11 +35,23 @@
 >![Graph 1](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/2.png)
 ### Example 2:
 >![Graph 2](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/3.png)
-* The last polinomial will be the best divider.
+* The last polinomial will be ***the best divider***.
 	* In **Example 1** is a **red polinomium**
 	* In **Example 2** is a **pink polinomium**
 * Meanwhile in console you can observe the evolution of the population.
-* Have fun!
+##### Staring population
+>![Staring population](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/7.png)
+##### Evaluation
+>![Evaluation population](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/8.png)
+##### Parents
+>![Parents population](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/9.png)
+##### Crossover
+>![Crossover population](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/10.png)
+##### Mutation
+>![Mutation population](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/11.png)
+##### Evaluation of NEW population
+>![Evaluation population](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/11.png)
+### Have fun! :+1: 
 
 	All rights are reserved
 		2019
