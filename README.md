@@ -1,4 +1,4 @@
-# PointsDivider using GeneticAlgorithm
+# PointsDivider using Genetic Algorithm
 *Created by Yaroslav Oliinyk*
 
 * The purpose of the following program is 
