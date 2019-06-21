@@ -31,9 +31,9 @@
 * In case you chose to generate points, they will be geneated right away without effort.
 >![Generation](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/4.png)
 * Then after all the points are entered, the algoriths starts to work and eventually you should receive a graph with polinomials, starting from the 1 generation to the last.
-Example 1:
+### Example 1:
 >![Graph 1](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/2.png)
-Example 2:
+### Example 2:
 >![Graph 2](https://raw.githubusercontent.com/yaroslavoliinyk/PointsDivider_GeneticAlgorithm/master/pics/3.png)
 * The last polinomial will be the best divider.
 * Meanwhile in console you cn observe the evolution of the population.
