@@ -13,11 +13,14 @@
 ### Launching the program
  
 1. Download the repository
-2. Extract the program in "Downloads" folder
-3. Use the following command: "cd ~/Downloads/PointsDivider/PointsDivider/src"
-4. Then this: "javac -cp jcommon-1.0.23.jar:jfreechart-1.0.19.jar: Main.java"
-5. Then: "java -cp jcommon-1.0.23.jar:jfreechart-1.0.19.jar: Main"
-6. Well done! The program is running.
+2. Unzip the repository in "*Downloads*" folder
+3. You'll have the following package: PointsDivider-master
+4. Enter this package: "*cd ~/Downloads/PointsDivider-master/*"
+5. Run the next command to extract the program: "*tar -xJf PointsDivider.tar.xz*"
+6. Use the following command: "cd ~/Downloads/PointsDivider/PointsDivider/src"
+7. Then this: "javac -cp jcommon-1.0.23.jar:jfreechart-1.0.19.jar: Main.java"
+8. Then: "java -cp jcommon-1.0.23.jar:jfreechart-1.0.19.jar: Main"
+9. Well done! The program is running.
 
 ### Interface and controlling
 
